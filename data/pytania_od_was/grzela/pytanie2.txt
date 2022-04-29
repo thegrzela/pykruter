@@ -1,0 +1,5 @@
+Nr: 2
+Pytanie: Co to jest lista?
+Odpowiedź: Lista to wartość zawierająca wiele wartości ułożonych w uporządkowanej sekwencji. Pojęcie wartości listy odwołuje się do samej listy, a nie do wartości znajsujących się w liście.
+Najważniejszymi charakterystykami listy są więc: jej długość, typ, jej elementy
+Rezultat: 
